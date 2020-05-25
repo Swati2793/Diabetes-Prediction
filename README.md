@@ -9,5 +9,5 @@ In this project we are -
 
 1. Building three types of models - Logistic Regression , Support Vetor Machines, Random Forest Classification and comparing their performance
 2. Tuning the hyperparameters of random forest model using grid search
-
+3. Generating insights on how should the patients be targeted
 
